@@ -5,6 +5,19 @@ Based in **Quetta, Balochistan, Pakistan** | Operating at **Balochistan Revenue 
 
 ---
 
+### 📊 GitHub Activity & Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bilalkhankhilji&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Muhammad Bilal's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilalkhankhilji&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bilalkhankhilji&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+</p>
+
+---
+
 ### 👨‍💻 About Me
 - 🔭 Currently managing network stability, VLAN topologies, and firewall policy rule sets.
 - 🔒 Passionate about Linux server hardening (UFW, Fail2ban), SIEM log analytics, and threat isolation.
