@@ -1,7 +1,7 @@
 # Hi there, I'm Muhammad Bilal 👋 
 
 ### 🛡️ Assistant Network Administrator & Cybersecurity Engineer
-Based in **Quetta, Balochistan, Pakistan** | Operating at **Balochistan Revenue Authority**
+Based in **Quetta, Balochistan, Pakistan**
 
 ---
 
